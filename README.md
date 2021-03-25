@@ -8,9 +8,10 @@ It's not a whole project and will not be launched, this is for practice purposes
 
 ###### This page has:
 
-*- 3 *.png images
-- Header with Discountify Logo and a nav section: Home (reloads page), Products (nothing), Github (my account), Curriculum (links to my CV), Contact (nothing)
-- Searchbar with submit button
-- Form with two inputs, one for your name and one for your email
-- Select element with 3 options: Black, Red (selected by default) and White*
-- 
+- 3 *.png* images
+- *Header* with Discountify Logo and a nav section: Home (reloads page), Products (nothing), Github (my account), Curriculum (links to my CV), Contact (nothing)
+- *Searchbar* with submit button
+- *Form* with two inputs, one for your name and one for your email
+- *Select* element with 3 options: Black, Red (selected by default) and White
+- *Radio Buttons* with discount percentage
+- *styles.css* 
