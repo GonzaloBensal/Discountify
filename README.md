@@ -3,7 +3,8 @@
 ## Intro
 
 This is a project done by Gonzalo Bensal with a Youtube tutorial and own knowledge.
-Here is the link: https://www.youtube.com/watch?v=XyFjHSyR5Go
+
+Tutorial link: https://www.youtube.com/watch?v=XyFjHSyR5Go
 
 
 ## Description & Tools
